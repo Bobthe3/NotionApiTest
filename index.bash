@@ -9,7 +9,7 @@ curl -X POST https://api.notion.com/v1/pages \
         \"title\": [
           {
             \"text\": {
-              \"content\": \"COCO PUFFS\"
+              \"content\": \"COCO beans\"
             }
           }
         ]
